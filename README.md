@@ -9,6 +9,8 @@ Arrow keys : move.
 
 Space : freeze fractal.
 
+Mouse wheel : zoom in/out.
+
 q - e : change fractal.
 
 a - d : decrease/increase number of iterations.
