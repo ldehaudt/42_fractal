@@ -5,6 +5,10 @@ This was done as part of the 42 Silicon Valley curiculum.
 
 ## Input
 
+Arrow keys : move.
+
+Space : freeze fractal.
+
 q - e : change fractal.
 
 a - d : decrease/increase number of iterations.
