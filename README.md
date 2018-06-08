@@ -30,3 +30,11 @@ y - u : decrease/increase outer red
 h - j : decrease/increase outer green
 
 n - m : decrease/increase outer blue
+
+## Screenshots
+
+![alt text](screenshots/1.png)
+
+![alt text](screenshots/2.png)
+
+![alt text](screenshots/3.png)
