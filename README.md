@@ -3,6 +3,15 @@
 This program displays different fractals and lets you customize them using your mouse and keyboard. 
 This was done as part of the 42 Silicon Valley curiculum.
 
+## Comiling and Running
+
+Run `make` to compile. An executable will be created.
+
+Run with:
+```
+./fractal julia
+```
+
 ## Input
 
 Arrow keys : move.
