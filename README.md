@@ -9,7 +9,7 @@ Run `make` to compile. An executable will be created.
 
 Run with:
 ```
-./fractal julia
+./fractol julia
 ```
 
 ## Input
